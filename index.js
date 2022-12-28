@@ -6,7 +6,7 @@
 //   function inner() {
 //     console.log(a);
 //   }
-//   // var a = 10; // perfectly okay, still closure captures this.
+// var a = 10; // perfectly okay, still closure captures this.
 //   let a = 10; // a has BLOCK Scope, but still no change 
 //   return inner;
 // }
